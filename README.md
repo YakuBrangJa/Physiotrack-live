@@ -1,7 +1,7 @@
 # Physiotrack-live
 
 - This repository is for redirecting live url for my private project, Physiotrack 
-- Live project - https://physiotrack-1a8e0.web.app/app
+- Live project 👉 https://physiotrack-1a8e0.web.app/app
 
 Home page 
 ![Home page](https://github.com/YakuBrangJa/Physiotrack-live/blob/main/home_light.jpeg?raw=true)
